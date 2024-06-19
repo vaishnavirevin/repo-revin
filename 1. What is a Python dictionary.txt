@@ -1,0 +1,56 @@
+1. What is a Python dictionary?
+2. How do you create an empty dictionary?Ho w do you create a dictionary with some initial key-value pairs?
+3. How do you access the value associated with a specific key?
+4. What happens if you try to access a key that does not exist in the dictionary?
+5. How can you check if a key is present in a dictionary?
+6. How do you add a new key-value pair to a dictionary?
+7. How do you update the value associated with an existing key?
+8. How do you remove a key-value pair from a dictionary?
+9. What does the pop method do in a dictionary?
+10. How do you use the popitem method in a dictionary?
+11. How can you clear all items from a dictionary?
+12. What does the get method do?
+13.How can you get a list of all the keys in a dictionary?
+14. How can you get a list of all the values in a dictionary?
+15. How can you get a list of all key-value pairs in a dictionary?
+16. What is the items method used for?
+17. How can you iterate over all keys in a dictionary?
+18. How can you iterate over all values in a dictionary?
+19. How can you iterate over all key-value pairs in a dictionary?
+20. How do you check the number of key-value pairs in a dictionary?
+21. How can you merge two dictionaries?
+22. What does the update method do?
+23. How can you create a dictionary using dictionary comprehension?
+24. What is the difference between get and [] for accessing dictionary values?
+25. How can you create a dictionary from two lists using the zip function?
+26. What happens if you use a mutable type (like a list) as a dictionary key?
+27. How can you sort a dictionary by its keys?
+28. How can you sort a dictionary by its values?
+29. What is a nested dictionary?
+30. How do you access values in a nested dictionary?
+31. How can you add a new key-value pair to a nested dictionary?
+32. How can you remove a key-value pair from a nested dictionary?
+33. How do you copy a dictionary?
+34. What is the difference between a shallow copy and a deep copy of a dictionary?
+35. How can you use the fromkeys method?
+36. How can you set a default value for a dictionary key?
+37. What is the purpose of the setdefault method?
+38. How do you handle missing keys with a default dictionary (collections.defaultdict)?
+39. How can you convert a dictionary to a list of tuples?
+40. How can you convert a list of tuples to a dictionary?
+41. How can you create an ordered dictionary (collections.OrderedDict)?
+42. What are the advantages of using an OrderedDict?
+43. How can you reverse the order of an OrderedDict?
+44. How can you use a dictionary to count the occurrences of items in a list?
+45. How can you find the key with the maximum value in a dictionary?
+46. How can you find the key with the minimum value in a dictionary?
+47. What are dictionary views?
+48. How can you check if a dictionary is empty?
+49. How can you delete a dictionary completely?
+50. How do you create a dictionary with some initial key-value pairs?
+
+
+
+
+
+
